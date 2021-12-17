@@ -1,4 +1,4 @@
-## Andrés Mahía
+## Andrés Mahía 
 
 * Data Science Masters student at Cunef, Madrid.
 
@@ -6,8 +6,8 @@ I love statistics, ML, DL, and everything that has to do with prediction. But I 
 
 The main languages and tools I know and use are:
 
-- Python 
-- R
+- Python ✨
+- R ✨
 - Git
 - Bash
 - Docker
