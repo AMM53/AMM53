@@ -1,7 +1,7 @@
 ## Andrés Mahía 
 
 * Data Science Masters student at Cunef, Madrid. (I already finished 😎👌)
-* Data Scientist at Credit Agricole Consumer Finance.
+* Data Scientist at BBVA (also formerly worked at Credit Agricole Consumer Finance).
 
 I love statistics, ML, DL, and everything that has to do with prediction. But I also like cleaning and parsing data.
 
